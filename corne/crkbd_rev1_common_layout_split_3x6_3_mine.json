@@ -48,7 +48,7 @@
       "ANY(CTL_T(KC_DEL))",
       "KC_BSPC",
       "LT(1,KC_SPC)",
-      "DF(2)"
+      "LT(2,KC_NO)"
     ],
     [
       "TO(0)",
@@ -135,8 +135,8 @@
       "KC_TRNS",
       "ANY(CTL_T(KC_DEL))",
       "KC_BSPC",
-      "KC_TRNS",
-      "DF(3)"
+      "MO(1)",
+      "KC_TRNS"
     ],
     [
       "DF(0)",
